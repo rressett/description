@@ -1,0 +1,49 @@
+// Root Cause && Description 
+  
+// Memory	
+//   Bugs caused by memory, including memory leaks,memory uninitialization, pointer null hangs,null pointer dereference, buffer overflows, and multiple releases.
+    
+// Concurrency	
+//   Synchronization problems among the concurrent tasks in concurrent programs,including data races and deadlocks.
+    
+// Semantic	
+//   Inconsistencies with the requirements or the programmers'intention that do not belong to the categories above.
+    
+// Semantic:Wrong Control Flow	
+//   The control flow is incorrectly implemented.
+    
+// Semantic:Exception Handling	
+//   Does not have proper exception handling.
+  
+// Semantic:Processing	
+//   Incorrect assignment statement，numeric processing, expression evaluation.
+    
+// Semantic: Data Type	
+//   Basic data type conversion error or function needs to support other data types.
+  
+// Semantic:External Function Call	
+//   A bug caused by calling an external module or external library incorrectly.
+  
+// Semantic:Missing Features	
+//   A feature is supposed to be but is not implemented.
+  
+// Semantic: Missing Cases	
+//   A case in a functionality is not implemented.
+  
+// Semantic: Corner Cases	
+//   Some boundary cases are considered incorrectly or ignored.
+  
+// Performance	
+//   Bugs that make a system perform abnormally in terms of responsiveness and stability under a normal workload.
+  
+// Platform	
+//   Cannot run on specific CPU architectures,operating systems， Web browsers,etc.
+    
+// Environment/Configuration	
+//     Operating system configuration errors and other non-code errors that affect software functions.
+    
+// Build	
+//     Link and compilation errors.
+    
+// Version	
+//     Bugs caused by version changes include forward or backward compatibility between versions and incompatibility.
