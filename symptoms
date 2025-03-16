@@ -1,0 +1,19 @@
+Symptom	&& Description 
+
+Behavior Error	
+  Unexpected behaviors, results or exceptions.
+
+Crash	
+  The program throws an exception or error during execution, causing the program to stop
+
+Nonfatal Error	
+  The program displays incorrect output or other unexpected conditions, but does not trigger crashes, warnings, or exceptions.
+
+Resource Usage	
+  A situation where too many resources (such as memory) are used.
+
+Low Efficiency	
+  Function correctly, but run/respond slowly.
+
+Hang	
+  The program continues but does not respond.
